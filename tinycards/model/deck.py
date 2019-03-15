@@ -11,7 +11,6 @@ class Deck(object):
                  description=None,
                  cover=None,
                  deck_id=None,
-                 visibility='everyone',
                  front_language=None,
                  back_language=None,
                  cards=None):
